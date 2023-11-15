@@ -1,0 +1,542 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Config
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Config
+ identifier : 0x24a0f7ec058abc18
+ internal_properties : CAAAAAgAAACONQROAMNc/ou2Q1nGn09rlQxbBTxk5NCTiIIWvJg8SdxOftpZlLzBGh6ZBexICwBQTbzpG5OfLKB52++f2jexM3+Ga2KLtYrceM7nj9Y+bZXcvDjHGyvsFROyeNlKh2NpuCLp939fKhvkQoMH2AsNsoqtueEy6aKSOtj3lbwazPh00LTujSok2N2CujOQ4m+vKqJ/+X92NipSMk8O7KsUlCasYbBI73H8dTVxqW7EFaEwLlhD1L9kQR+C/MQbG/bhkn0ZOE5fYhZ6aV0wZsnClo2oeHt+zPFMKv8l1ET/2QlvqH1buXl4maln5Dqa7B/FI4R6UUQnmqKi213TWcVQBaMyNd6fO15BvOHSRVwX7Mq2ma6H0Rpuh88/HMiwKNvv3boggvmXFZnQMlVKhmk4zfE8z4N0IaPEwOrmwGv5ozppIJI2Mgx8/4TFBViZI9x7wmVi9ohYwGSA3NqXaCGusMZ8uAvj4YUJwP4uTdTMI/BP4N8y5G0kqJnz3VwDif/PTEukNoKhOVpfzjSXyscYtuKlUZkC7pYss/8h4gnhs7vVFGoI4g3v63JMiJdiMAUhj6jeGaLShtDc2cgfbB1dU1Iqk349ABq0+VSur2MRc9wr8/d/LHcTuKVR8lf1fm3sHlB2Sk0IHeRXWw9PMSOZ+o+tPw05p98HTob4ZU6Izc83chwNo/5YMD0Hjg20W17xBO+iUYrZAH1Sizyz5Z2XYMZhWmTV/QvK1kyUx+h2s2YS+IJw+SHsXeQd3QcKPaGKhrczxilnNnL0QtYNwYvbE49VXBeK7seqdzroG7g=
+ properties :
+  x : 120
+  y : 50
+  width : 746
+  height : 397
+  widthClient : 744
+  heightClient : 365
+  widthMin : 196
+  heightMin : 148
+ controls :
+  -
+    name : SEL_TYPE_SAVE
+    identifier : 0x24a0f7ec058cbc18
+    internal_properties : CAAAAAgAAACi4jUmy8FxV+Q8GkihzjJPx/jU2Djg1QvSaj/rj0NqjWo6uus3uRytbJXZG2bMA8fEyV9Wwc++2hAZcPximju9mZw4EPxWnUhGbMeDpn+TTKtKscAz3SCkQCCdp9+5gbO4quOJ5xxNHckclnYqGrauUGkoHN4OxKPY9M0fgAsKelBpQmGWiOjnfYFTqoGR038ufB+3rGn4buTDk6megvBNYr2Km3kmJx5v9Z8RfdPKe1cy16UFtpQlKOqyqFg+ZVaggg2LJy0tuVl3Y+WaMZgBZ+ZDpgxJe39hrzSM/n2n1MrTpO3wrAYdM6Qo5iCifw7ILwpJgG8/+9hJNvP6IPOhJP9DGmq9A3VoVGCXBLo+CtpkR367wLj55V11PnBz2LxWT6edAlcq3IwO+AQFRxSQ3y1YZvghkff3/5YdlEMe+oa5Qqi9letX3Xv/8JYPU67DMcDh61En7yK6GKZpr3FbBnRHy66+xdzQq7/WVnuPdOmMVxz1c8bIkOgEV0zU3Me/djddhWT5h2OE8V6xd4w8HEsqKlrn38aRiZlRaBMoIaa4GVSCSywebvVjbKhP3lkHpr2oyfCvoP2V4PubVvGxOyCR9q3C5PH26T13dvI92GKtPG3qhRf+I9OQYu3rVdiBD8ikqIYZ4tTR4Q7rU2hUDkbgE5CKoDLdLI7kU8AB3cnuo2PTnIp5Bx4pqZi052UbyoANo405iOfzQ7gzRO74+BiEzZdjnJX8xEmaeIoPMnTSq+oAih58u3cWn300th3UCGMvUYCUZoDfb5E/GuvRPom8AX3IFi9+jKS/l9uarEgFNJixLgkd2dFzqyhgLgtcnzRCtseaNtyug8BhbfW/fyVehwZLmVyVvBq5PqHvp2kijv/Epui09ETDeC8fa6Rq8N6FcKQ3iVCQ3XXW0wOoCK/0svqp/SDEklQmLDJX7lSHWRP/IqoP6CXy9HXC2o/FcZuSomsYBEe6nzOWBT5x6p6K2RCW9FxoaP6y9w/SBl+SJ2kyt5ACnyYi51ZAigH1FcVvg0NKztTMb6Zq5cDFT+1iWwppKziUEoPFMQ==
+    properties :
+     x : 13
+     y : 38
+     width : 154
+     height : 96
+    options :
+     -
+       internal_properties : CAAAAAgAAAAVRiXyqsjHEDEQsp5J1PB76hfUxPVPUeerT5s2NByPgSaDftNeQjsxQX63cIDAdDWAdo/KFR/Up6BzGj2Mt9wZDMImAkoUhHqnWvBNeYvPAkK5O3/8nv5WJV+uuXx4g7Vf23G8d+IoME02iAUFVaAqnK5fT0DwKD+kXLaai7kYqAUD
+     -
+       internal_properties : CAAAAAgAAADmTbMRVDWootNd3EHJzQko6D1FYZ6wojKK9jkiFnlMwn8yluNqzOhlB1awwx4rKQn6PA6AREQJCtOSswhj2ifpFfIZ3R8gC2nU0CqTjiPnvpPb4qqrUNktuAU24eWsg8GSddNsmBv6EAE/dmtVOveR94zwJ6ScTRG2IyMOVTI=
+     -
+       internal_properties : CAAAAAgAAACymW/VaMlc9pcRkI2dAc3sLMJHioLQvuYyBkGWavEUcqfias/G3IT5j264F8pj+aliXHIkwKQl3qt6o4Re8t/8OKSrD2maXTMWYrwBMLVRFE0ltGzNciM/sg/IJydevX8sR22GilUcajPhf6qJ9rPNs8C86+BYAUX652fCAWY=
+    type : 6
+    controls : []
+    code_elements :
+     type_code : 6
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         
+        type : 15
+      -
+        code : |1-
+         
+        type : 16
+      -
+        code : |1+
+         
+         // Change la description
+         ChangeDescription()
+        type : 17
+  -
+    name : LIB_Explications
+    identifier : 0x24a0f7ec058dbc18
+    internal_properties : CAAAAAgAAAD7tM9nQi0iEBUWSrzsXwgOOVHdhRQvi+H9uxiEAi1kukwt2q+AiXF8WzIAq2vFfCC4ZGBt6TFJ0OjW5ha07p5qSx7g/rHyDlQQW+A7bnxLgdINPAv83Vc+P9k27LZkRsEvKiTw6/Twz+DCwsX0qfnV6O8Gs4xs8zIqoevdcZy6jLt3nNfXfv/WDKO01b9HVPv0f+9hCoAHSB7j7vO5KF7sdX5/zgr7UEB7UTqZbuQjkViiaJVrQouV4hKulOou9F7AJpswIz0X5E23zQAzBBQLdrhbF5GLyD+ypFEdtOYKsV59ZWw5C1gKuIouQPQEex6eDH3EcTLulLIBICjeopMJMz4KA+iIWiQZ5fO3oLbqpKhN6Q3dio/G5s5DkcAqt/A1LIIbvmZvOA8x9oigBpZXRCGvIiBI3nepUHppseAnwq80l9FNi6K7ctdDuJUYZgMaTlmJh7GKNii969VdP0p1tIZJQ6K++hqc62moDHg6wZuwGc9msPzl4czW9l7iO/ifMy3oUVjaaw==
+    properties :
+     x : 173
+     y : 38
+     width : 558
+     height : 274
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_DESCRIPTION
+    identifier : 0x24a0f7ec058ebc18
+    internal_properties : CAAAAAgAAAC30Jc4OrbQnoEoaG/fJBbNybS8YJWGC0FBnXlyeTC1hGGRLi0UldjNDoUlOam9M7OC3i9FCUwKmGRF5H7Nbb5YSrIOgICoR88vVoIfdz18nxKarKMdVjiwGCBzWxg5SOCXRW3GCEoytDm0hGztqkHMxximhYLNTWBLvvzj3R6e07gdV2t4DJL+9t2tpTPgRCGpu4rXxgkCNXTGRCVRS/vWeoEgexQTpmzR2Hq+uYfKDli2OO9wjq1EHNCyJVqDkDxP/uiYsgEYP1ixjyLUHc9+xsgwTLC4DfHWUSUdV/JrI359lTCu8mdosoLa8aOSCw0/HZpBW17yfonVL8OGjE1mKS0P22AcZtdaMifyUkah0aGtG72lg5H4U8T3z4OrprfeyF6JN2DPFuyoe/eZkHNmPbrbRW/3vB9ugrR2wPAwFIAQmo/1SxfTcipMHpJYdCULZkMo6j+BQ+duP4W8LZ2EBNMM+LSK/Y7a6jOzvS7IObfnB2rMG+NH4aQ3wV9uyCucpA==
+    properties :
+     x : 180
+     y : 61
+     width : 544
+     height : 244
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : SEL_GESTION_SAVE
+    identifier : 0x24a0f7ec058fbc18
+    internal_properties : CAAAAAgAAADpwAgwYbNS+tYGoQ42g7NmDWhqGgfHoq7yo6vAJ6iRF7RT6ZwXYJPKCxWWWeTglA+BWJzHKgEjn1FFzWx+Iru9Q2ElXbscrxs/cfTdShAfL6qw021qEhQsoUZDay8a7TJnV8so+ZcrU9x3kOLdmpqZRgsFpFBUfoxMmqGD+muQVXg1O/d64XuoCRkpOcT8HS14VqlW/mGr1b5kCUTtVmXZd6I+diAfIFcVLt3iWVqFzbAww4l/0ExvZC0PzETiau1ttY1u9u+5KhY7KFZxPcRaohbbOJXUUPNao71vwvNhEvqibeRfu+kZYBSkd0HYcMUjIbZgAXcwdcgYJluDTxue9RjS6mTfajC/APiCIVZjRRrztrFssEYpYe96Mq5feWO2BFo+jpvQ4s4HvemKXaloFkGFxU8WW/zr0I9YeUoOnHVZHxgapdHJmAeFQyfMHHkelZs0oBniHTciV81CGbjfDCkFrUR7XyGLlR3VdavLfJlzSvUA6HCWOAPXtSOI+KIG2ad0rJ68ceLQea7sxBxVk75R4/xKYrV9Oq2vTTlgDl2kFSFZbi9oXIyTKEPzin/WIVuZ2vgEs6GK/B+F79xNPCMWUkzUtaKuovLqqkWmqw6WtfjMQjmH4YboNxbNZ5RRhHDWKRjxggHZfetI6yxMWC//OcpmZfdSmp4molC4M524mt2GsBm8Xe4ghpCY3eqheKoWQ/gvRJUrsYVI4IlFln2qHW0AD8QlKzm4pCcqLUW2bKUnt1c0O1079EVckKgWuiD0J8HGQr4J6JqDzQ0mkVN3GqlVwcJUwocwlASF4OGR1fWRcFa4zDCqaBSsa5PJIsMfAfw1U0FgCcDXiuoyeW/j3wnevLiiig64Gt13dQDGeOVHmABAs/w5lf3DIBk3MF1LI65CKsizloF3zfXOFt9zJCu/MOvyuRGPBUKjZRSP7DZ0QQ/trfUU+tiCREZAV2oHqGlFQCj1BVlZgByLDrST1s+2i77ZblSQZUlqdkdhrpZTKBreRMRo/+L+/ZlY0hQ025H+ckHvVc7BFb2aQ1QmARE4T1JwoStRIgvmZQ==
+    properties :
+     x : 13
+     y : 138
+     width : 154
+     height : 83
+    options :
+     -
+       internal_properties : CAAAAAgAAABkw6c/Fv8U9ZMfFAkZf8PaKsH+lcbSaHxYVO+JCM0Q9t+Ksv907AA9Q2rq2biH2cmWQKZAajgFendGAVosWmeRrRUEqlaXQt5v6zPS+a58QRZmpQeuS8QW1+STRAyL7LhF4FUmtmk8wm87+Nb6cz5aKL2x9mlzjx12Y9OQ17A=
+     -
+       internal_properties : CAAAAAgAAAAM1a3o0vMn3dBKMfMg19LG8L5QJP+R8/7lv+N7iXG4+RXhmi24o9USCp3xsIPlxeNHDUL3zZcDPfgd3ccD42Rvmgg6AdyhB7y8MvQKD4K3XnKp6fQsBSca3nV8eBJF/U9doQ8zZ4Cqeyepdb+fLlU/PSebbZgNgz4u+QE=
+    type : 6
+    controls : []
+    code_elements :
+     type_code : 6
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         
+        type : 15
+      -
+        code : |1-
+         
+        type : 16
+      -
+        code : |1-
+         // Change la description
+         ChangeDescription()
+        type : 17
+  -
+    name : LIB_Paramétrage
+    identifier : 0x24a0f7ec0590bc18
+    internal_properties : CAAAAAgAAABJhcpEsPpw9pI99+NaIgU6/lVtmxZ9V4xfpZ1uR7XI1Dz07Y7MwWTXC20WEhoZI6X3CywJq4srH/A3dyFA3GkLZEVR2iaZbW4hOSUssGRJWPTtBQaeHm10nuHDQDPY09dITtGYXtZCe15sTGzmOs5gGs2RQRbyrkvdnU8tRozbfkhG5iepHT0KJXQIUmX05B51fIrm1Q3wbmjgB1SoNHx/oIzAIapf9atjRt9BoYmPqIIYl2secTOokWH0/0nxKKgPkmJAUZQN5MPERnwq3k0jScPRQmRmzchCc92VzqNzPEQkvSeK5BTOyWFpR7HLY2FGl+QADGwNYlgnkoBhJtlTmrsb4q5KU/7Kq1c70GylnwmEK7m7wz2mR9DV1R7H8h91iePBMrcOgM2hwnDKiOkEZtWDLdgib+BYo+8nLtW3rsAKu/MwiWfeeraOCX2Z8xzNAI002yzVs6QMbNwBZMQH92BrY/4kbxUj9FmNdEqWQRCb9JAoeacqORaaTQjVvAt9ZXEC401fof7XfPPQvQkaqyO4ZaH9Sg==
+    properties :
+     x : 13
+     y : 12
+     width : 318
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_Annuler
+    identifier : 0x24a0f7ec0591bc18
+    internal_properties : CAAAAAgAAAACYJlycd4jTZmS7jiPQvfYiEYlTgaEZnAkRP2wp18BaeiERLc58hAIenw9WvSuj1TVtNf8vaX9bI4B9yKvdwxCeumGkWpG9NY+npqWzYMx5HLwpqZnQzSo1jcMkXbgHyKtXkDMa3FtIvmKrXjxXoAEIf3uI5yYlyv2tnIOz/uBpmtmOjWvX15KZskks8KSu0skjVHMT7Bxela+b6Eo2Qbv8Qq97ERvuYvOgc2mhHBGOWYV0s2MIsX+Um5jjUf/7nzJIX6dmU+4rpy0LsJEXUgxr4Jrz+v2svF5sMCz8qWyn1QYVmDP2dVmTHlSwrXOkxhN+9tW34K+BIhTU2tWTYjShlg5eKauyP9z5w1vImjjj2Dr8lG/9GgWJkNOg6oEICNR0FNsQqH8yY0B4OFJF63L0U5Za+4/ot24YpIkyA4HOE13+RXoUY48nkvguM9+PnocRVUy3QD1sLARcDqa+H24Qs9LYAA94R5NLLEYiMW7127gNdqlwBBJQrOdA8xjb5KOs+IMfqg2Ha4CzuzJyhl8nXQKQlBoxwPQwc3cuvm5imN+fz9/zKRlj9ZlG7fP6FcgcrFJfMbCNTm/gefqZMnNQBEvglK3JaynxkmkZVEiLc3wZAzM40WtU5aJi4Zouq5ZD9huK1iEBzrO99mmrq9H9xaYYuwQNf/Nen5BcRSU6Zk4jjIr88a9580MQBj9/HNzSkpili2M2ZTDkcOJf4v9144eggqORvqjfNA1Zc9qZXys55GdLFa9nS4RLb8MrHEZdNRLz3SXh/IF0MgFFys0sfRU9BrGQbbUQQosxxcTP5iCutilPTD3IiUy8EsCkJMIhwTRqeVBWiQCGhEVc0iThnatiRDdzCP9LZxT1C1mRM0gHub8f9UYlCOCSxTuLR228rBA71Z8bw+rnlcHscK128R5fXFkBQg=
+    properties :
+     x : 650
+     y : 329
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         ferme()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_ENREGISTRER
+    identifier : 0x24a0f7ec0592bc18
+    internal_properties : CAAAAAgAAAAVZUCOAkGqYjfa4CdDXebUvOHk5f5SENCLrAgjWYTv7KdYdEj7+mS78A3gkpMCgKMr7tTnaWvB0p34xLEURlh37l0s3e17/bqIJjcpQtlWJ1oWu285BRdrvDbDa08IAi/C49wZ++rl2pphHlvQK9bS2k26/rImD0Ynew/O1+0Xzld52ReVKrL5C6cNO0wnzYFxGvnhW3HRiXRDjBL1YwtZi188T1F3I+fAqIVzKaoFOKYxojezqzq6MK2lWiSMybK31QX4P3DQTDvBo9TEycjaqSTeidocYu7LE4CGidfJvZfA5oVjPeTwlWlvMTd0GxrULpSSEzGor0axd2S4WNU9+TK9GqHFnr2ZkSqd7GP/78bBulpgKkceQz62gPxd1mzSqI26r4U4vNZYAMtR760KK8wUuRausDFByENFBg4taP4dyYZTcp5+fzX9+33j3irXQQMJiRueMfNtytp6rgjqzxS4+SnM875F8iKAtxbKDIB8K/BrIXFF2meDamhPEQEjljcV6/Zfv33OuY05yUX0jej52eLcyQoXDKR4oE/DLSHxk2j3pF3AGU9nzA5VIdK98xbPg0NfroagF1Dgj0B0zPrdQVhWK+agHbwuGeUVdSNxIAX1Qnk04TxH8rPf9xLQY0pBRWxv2G7k0yQ3FU/0t1gphC92EMV+uwzkYfv/OY9UVlmok6MJ5K3KjbD/tV1lMwIjF50uK7rd91mKlsN6Oj6Djl0zkNire/TwIoHYJbnziVUlHoDnyR1oR6fvRnOCVKop+HHaUnuZUUFdTnIeeVUwcqrtSb4qI/AtFtilFz/rC63VOY+C+6RbC0sAzPRdT2J9OVnkAi63CCHpdHcisP0WPtniF0SelNqumI4yrwEJljHgqdRs56Z++RPeUCKicfpDOMLym5CuQCY9+LbchCpVkWRQzh/XZy4uk1x+3qgUJWTpBz6GmlTFqxVzelOzQm4sMvI4I+uQ/SB2xLOaM9sfJQiZcA1DofExeIu3HWsr+vOhudeakWaXP44bY6NTAGjacUmO
+    properties :
+     x : 564
+     y : 329
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         // Sauvegarde des paramètres
+         SauveParamètres()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_REINITIALISE
+    identifier : 0x24a0f7ec0593bc18
+    internal_properties : CAAAAAgAAABSl92bq7ifk4xUaUMqePI4G51EXEOWkjRJ8h6es80fuNYL2FWT3TLYVn9/sF79nM6ZrCYo7i1ea6JvDOx9HwO8imsSYSiGzuEsgRbn7lNXh0vP0TLL2kOV/vqB1t2tQHvY0Ni2RfCGhlg/hIrpn8mhJoHywKBUuNBFCHa3+z/uKc3oRkr5QpdyufPjlgAKjW+AiuATMX3zLI/09reLC/kwoBvtfR+dRdeomBohSUr7ZuJt4b6vZNhQiZ0EnU/uduBq5G6K4otTy4rc/hmVJY48BO9Zf0Sg6vnBaLRpG6yepvpqfj6Lb/JVwxWXmKONiCbT2zTEC76aGqUNtaChgdf5xlXrRdbMB8Fp9vdJblwOPqLfHZOEdk/z+ilIk9sCOnQDYOukv+7dt3WVKrd0M+9P45GHsSGwtseGUEo6RERdF2ByjjN4VCKsxelB05M5HWSwJfsNdvj14/gcceo3NHf527QbSh90GdAHb99dBeaKNHB18w+iqFwJHJrBoDP9l+AJGl64M9eFAbx6bgpKH1kbUPzk4ooGGrxmLVIcwxQo4JRoRruPVAuYMuUYXJJgsGuVQlTOg4g8TH65S/1r9zTwNrmhcl91rqysd0d2UsKghc13fIsGEN8jv3KY2xJe0sZgZThzv/z1XV7IeZwUISj8Ay++/M9Z1tWkx5EwBiDSGRrtyoImmn7NrSVt4FYsrCDiAfrJoZDri/fA9/KLFzpYOo9aaLM9Yqd/aq0YIyu1rRX3s7HpGLB4qxgcepuW0ONuaZl9jHxovBAWCyTayNUiSFjlWGP2m1W/e0A8wPNlfYFCZErxyq7NI1DpGRCMDYtI2ZrhhA8vsT4k9h7/gbQiYL1GJDJWm8hDCMHCDPn/YcZ86FtpeWIPsjnwzTZry8j2aXNQIamS/mjKkcuVjslVL0lcL+bk9QeZ6U1j+X+favmITOrQ55wxw5FSNXoCeY9b5mEIYl620EUyC6eOdfdH5mjm5zPRynlOvK71
+    properties :
+     x : 457
+     y : 329
+     width : 101
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAAAb56MhiTvk3RMUwRdA9Po1qqz+PEfNVLHJroz+qi3DcSRBgYEgP90TUu2Sz/F4/WxHy+27+Lmmy4gVBeJje5P8p/t7f26lY3VzbCRFv0k4P/0yR/W/xUvuZ6hBjzUx6OJrJwhyjNV1gOj6KFP2B23BHMMx1zFscc3o1QtSG8SUlw==
+        code : |1+
+         
+         // Demande confirmation
+         si ouinon(<§$000f§>, <§$0010§>) = non alors retour
+         
+         // Suppression des différents fichiers de sauvegarde
+         
+         // Fichier XML
+         fsupprime(completerep(frepexe()) + "*.xml")
+         // Fichier INI
+         fsupprime(completerep(frepexe()) + "*.ini")
+         
+         // Suppression des clés de registre
+         
+         // Clé personnelle
+         RegistreSupprimeClé(CS_REGISTRE)
+         // Clé Automatique
+         RegistreSupprimeClé(ProjetInfo(piRegistre))
+         
+         info(<§$0013§>, <§$0014§>)
+         
+         moimeme..etat = grisé
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x24a0f7ec0594bc18
+  internal_properties : CAAAAAgAAAAJxS0G5c1IRXGYGZdqFN326K3OkB4BBOm8SghVhlQHBcl5xljUepVhD3TFxInPCLsZJ8xssjOE44xdu8YpG2sAiOTJ0UnS+SWNgqmSNI1TJguWjR4mkDFpyVJlSbXUC6M1lSIlo8xJsa28G4Cxmprs+NZ7jXXUqDa63PNzDVAMsdgmOXkrvHWvtY+Bi0BxSd465xEbsxdVaZSQEpI1jNTs4GdiIxFfO1m/RoMk6R6Iaflhc5JPxmagMxq94R4lo8nIwKjDbtNlRFVInZJE3wz0ftRoFSvsybMdq1RwkA==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAACh2Vk4n2xQrdlQrO44WU1IanRCfp/+trLAXvthqWPZlV/jxyjcm+fQArUW42CwHWazILdXzQ89jlkKpJDRgFiome7Hz0tcwnx5pO+eCa6N0WU1cEK3wPHI8G2fwTGU
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAABWiT5BHBo+FvOhz+Z/duBtQw6+IgrD4pvp07/cssk5zoV+3yy4fwqkY1TDaLh7v6AsBDKSfu5jPAKbygH16IupXBoaeBvrHu0R7YffCV2WrF4eFgttS5Zx1tM6DmfLGxttBbjXP65Ftt4aZrsKDLNdVtx/zpiwyzYLuUCFIWpAmCVYqb8V1ZV5HguBMYFKPN8hhh0NOpnwholBnO+cPchZUk6j+TUISw==
+  type_code : 1
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAADLrZLoPd691p/sLwpcZwiZe818DKjNo1P3atvY2HUvx2HE9oBriLm9OEMj5HB+FQ6fqtqQELTuwMIpbEEcNMKgiV3gdxFQxISoyqZQUiYc5mfFtJ/mP/KDdHQBmPPlW4AhIeOd3iaVE8QWN2w=
+     code : |1-
+      procedure fen_config(LOCAL gbInit est un booleen = faux)
+      
+      // Les paramètres de sauvegarde doivent être sauvegardés dans le fichier de configuration de l'exemple
+      // C'est pourquoi on on réinitialise la configuration des paramètres avec le fichier Config.ini de l'exemple
+      InitParamètre(paramini, CS_CONFIG_EXEMPLE)
+   -
+     code : |1-
+      
+      // Si c'est le premier lancement, le bouton de ré initialisation des sauvegardes ne sert à rien
+      // Donc on le masque
+      si gbinit ALORS
+      	BTN_REINITIALISE..visible = faux
+      FIN
+      // On change la description, si ca n'est pas le premier lancement, il y a déjà une valeur sauvegardée qui va être restaurée
+      // Et lors de la restauration, le code de modification va être effectué (voir la fenêtre d'optimisation)
+      ChangeDescription()
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 2
+   -
+     code : |1-
+      
+     type : 11
+   -
+     code : |1-
+      
+     type : 12
+   -
+     code : |1-
+      
+     type : 17
+   -
+     code : |1-
+      
+     type : 13
+  procedures :
+   -
+     name : ChangeDescription
+     procedure_id : 1486460470018096152
+     type_code : 14
+     code : |1+
+      // Syntaxe :
+      //ChangeDescription ()
+      //
+      // Cette procédure permet de mettre à jour la description en fonction du paramétrage de la sauvegarde
+      // 
+      Procédure ChangeDescription()
+      
+      sMessage est une chaine // Le message que l'on va afficher dans le champ de la description
+      bCléRegistre est un booléen // Est ce que la sauvegarde se fait dans une clé de registre ?
+      sParamètre4 est une chaine // Le paramètre 4 correspond à l'endroit où sont sauvegardés les paramètres (Clé de registre ou nom du fichier)
+      sNomPersonnel est une chaine // Le nom personnel du fichier
+      
+      sMessage = <§$0000§>
+      
+      // -----------------------------------------------------
+      // Construction de la première partie de la description
+      // -----------------------------------------------------
+      
+      // Selon le type de sauvegarde
+      selon SEL_TYPE_SAVE
+      	
+      	cas 1 // Base de registre
+      		
+      		// On est dans une clé de registre
+      		bCléRegistre = vrai
+      		
+      		// Construction de la première partie de la description
+      		sMessage = ChaîneConstruit(sMessage, <§$0001§>, <§$0002§>, <§$0003§>, <§$0004§>)
+      		
+      		
+      	cas 2 // Fichier XML
+      		
+      		// Construction de la première partie de la description
+      		sMessage = ChaîneConstruit(sMessage, <§$0005§>, <§$0006§>, <§$0007§>, <§$0004§>)
+      		
+      		// Sauvegarde du nom de fichier en cas de gestion manuelle
+      		sNomPersonnel = CS_FICHIER_XML
+      		
+      	cas 3 // Fichier INI
+      		
+      		// Construction de la première partie de la description
+      		sMessage = ChaîneConstruit(sMessage, <§$0008§>, <§$0009§>, <§$0007§>, <§$0004§>)
+      		
+      		// Sauvegarde du nom de fichier en cas de gestion manuelle
+      		sNomPersonnel = CS_FICHIER_ini
+      		
+      	autres cas 
+      		// Le cas n'est pas géré
+      		sMessage = ""
+      		
+      FIN
+      
+      // -----------------------------------------------------
+      // Construction de la seconde partie de la description
+      // -----------------------------------------------------
+      
+      // Selon le mode de gestion de sauvegarde des paramètres
+      Selon SEL_GESTION_SAVE
+      	cas 1 // Gestion des paramètres Automatique
+      		
+      		// Est-on dans la base de registre
+      		si bCléRegistre = Vrai ALORS
+      			// Récupération de la clé correspondant au projet
+      			sParamètre4 = projetinfo(piregistre)
+      		
+      		sinon
+      			// Le nom du fichier de sauvegarde est le nom du projet
+      			sParamètre4 = frepexe() + <§$000a§> + fextraitchemin(sNomPersonnel, fExtension)
+      			
+      		FIN
+      		
+      		// Construction de la seconde partie de la description
+      		sMessage = Chaineconstruit(sMessage, <§$000b§>, sParamètre4)
+      		sMessage += RC+ RC + <§$000c§>
+      			
+      				
+      	cas 2 // Gestion des paramètres manuelles (spécifications des chemins de sauvegarde manuelle)
+      			
+      		si bCléRegistre = Vrai ALORS
+      			// on est dans la base de registre donc sauvegarde des paramètres dans la clé personnelle
+      			sParamètre4 = CS_REGISTRE
+      		sinon
+      			// On est dans un fichier
+      			sParamètre4 = sNomPersonnel		
+      			
+      		FIN
+      		
+      		
+      		// Construction de la seconde partie de la description
+      		sMessage = Chaineconstruit(sMessage, <§$000d§>, sParamètre4)
+      		sMessage += RC +RC + <§$000e§>
+      		
+      	autres cas
+      		// Le cas n'est pas géré
+      		sMessage = ""
+      FIN
+      
+      
+      // mise à jour du libellé
+      LIB_DESCRIPTION = sMessage
+     type : 458752
+   -
+     name : SauveParamètres
+     procedure_id : 1486460470018161688
+     type_code : 14
+     code : |1-
+      // Syntaxe :
+      //SauveParamètres ()
+      //
+      // Cette fonction permet de sauvegarder les paramètres actuels en fonction du type de sauvegarde défini
+      
+      Procédure SauveParamètres()
+      
+      sCheminSauvegarde est une chaine // Chemin de la sauvegarde
+      nTypeSauvegarde est un entier // Type de la sauvegarde
+      
+      
+      // Initialisation du mode de sauvegarde
+      selon SEL_TYPE_SAVE
+      	
+      	cas 1 // Base de registre		
+      		nTypeSauvegarde = paramRegistre   
+      	    sCheminSauvegarde = CS_REGISTRE
+      	    
+      	cas 2 // Fichier XML	
+      		nTypeSauvegarde = paramxml	
+      		sCheminSauvegarde = CS_FICHIER_XML
+      		
+      	cas 3 // Fichier INI	
+      		nTypeSauvegarde = Paramini
+      		sCheminSauvegarde = CS_FICHIER_INI
+      	
+      	autres cas 
+      		// Non géré
+      		retour
+      FIN
+      
+      
+      // Sauvegarde automatique ou manuelle
+      selon SEL_GESTION_SAVE
+      	
+      	cas 1 // Automatique
+      		sCheminSauvegarde = ""
+      	
+      	cas 2 // Manuelle
+      		// On ne change pas
+      	
+      FIN
+      
+      // Sauvegarde des paramètres 
+      pGlobales.gnTypeSauvegarde = nTypeSauvegarde
+      pGlobales.gsCheminSauvegarde = sCheminSauvegarde
+      
+      ferme()
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FenConfig
+resources :
+ string_res :
+  identifier : 0x121af1310003ac51
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      fr-FR : "Ce paramétrage vous permet de définir le type de sauvegarde que WINDEV va utiliser.\r\nIl définit le mode de sauvegarde :\r\n- des valeurs, tailles et position des champs persistants,\r\n- des tailles et position des fenêtres,\r\n- des valeurs gérées par les fonctions SauveParamètre et ChargeParamètre.\r\nDans ce cas, les paramètres seront sauvegardés dans %1\r\n%2 est %3 (%4)"
+     index : 0
+   -
+     text :
+      fr-FR : la base de registre
+     index : 1
+   -
+     text :
+      fr-FR : La clé de registre
+     index : 2
+   -
+     text :
+      fr-FR : gérée %1
+     index : 3
+   -
+     text :
+      fr-FR : "%2"
+     index : 4
+   -
+     text :
+      fr-FR : un fichier XML
+     index : 5
+   -
+     text :
+      fr-FR : Le fichier XML
+     index : 6
+   -
+     text :
+      fr-FR : géré %1
+     index : 7
+   -
+     text :
+      fr-FR : un fichier INI
+     index : 8
+   -
+     text :
+      fr-FR : Le fichier INI
+     index : 9
+   -
+     text :
+      fr-FR : \WD persistance
+     index : 10
+   -
+     text :
+      fr-FR : automatiquement
+     index : 11
+   -
+     text :
+      fr-FR : Le mode automatique laisse WINDEV gérer seul le fichier de sauvegarde
+     index : 12
+   -
+     text :
+      fr-FR : manuellement
+     index : 13
+   -
+     text :
+      fr-FR : Le mode manuel vous permet de définir le chemin du fichier de sauvegarde
+     index : 14
+   -
+     text :
+      fr-FR : Êtes-vous sûr de vouloir réinitialiser les valeurs sauvegardées ?
+     index : 15
+   -
+     text :
+      fr-FR : "Attention : Ceci va supprimer toutes les sauvegardes relatives à cet exemple"
+     index : 16
+   -
+     text :
+      fr-FR : "*.xml"
+     index : 17
+   -
+     text :
+      fr-FR : "*.ini"
+     index : 18
+   -
+     text :
+      fr-FR : La ré initialisation est effectuée
+     index : 19
+   -
+     text :
+      fr-FR : Veuillez sélectionner vos paramètres de sauvegarde
+     index : 20
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+associated_test :
+ name : TEST_Config.wxt
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

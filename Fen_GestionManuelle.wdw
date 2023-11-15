@@ -1,0 +1,292 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_GestionManuelle
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_GestionManuelle
+ identifier : 0x24a0f7e303cc9ad4
+ internal_properties : CAAAAAgAAAA7ypH6RuWszyda958eq/kj0K36XVoMCnHD4OYLh00bIKoRarmIZ3djv+tkVZPMXXLmCRkFnAfQMFCsRDXuwPr7ZHbydZiPMkOXvNsWeYV7Ftr6BdiOealONmsCFt3fLc1U+F0UA+HI2AVG5n+Q9F9n/CHsFRvW5CcmhKiqaEh92UIzLxBVTABxZ3fNTmTLKJReOZ0ABK7GN9wVIA5mhUA7cU2tEQ53jRRRW4VxCqsYb45gz0X/YK26c0kmM2I+iU4R14+liNkXM5Sk0Fy1qPwP+32HrwXNsw/QvZhtlB7byhQg1osww4YOUm58GMDm972VSA6rlkIRiIoFtdwwDDQN9HuyEu9oOC/xtfbUz559TjucwykkmFTkI6Oz1AJtDBD+9C66j0plSvUGo6h/cqloWgNCB8Pvp3h9eW/xMeFPThFIUm78ZeytEDVMJiuToScCkeU4MrFumbGdPy+6KiNlI6mcNnF2e7o6wbeV8ixqlr+W7q9amRt/KcryBnf/tUqaV1nMDMMd9OvwB6OsAJWdbSF3VacZNhlHMMs9/0K2m7dIiYkh4vAcNv2NQCBgsL4qk+9Z4J7dyCh0uLz7H0pOcFPKI94XxZ6AxFjUdwh2raRLErs3MQVL1gHkd6VU2JqDiOa/bRbos0uEhlwNQT3WbUQtJ09jhrP58ICDRZHpEex0Iu7lh5bB+6fr8BcTpus1zOhL9SBLzCbH2lRaKO3pIN/SwHe70S9Rbcvd1ogb7vXJFEY4FJVVO82Ve6/j94J+DnVzEIKMlT4bA+DxUXI1xZlhzK5StoIk2fSvXUiViJp2b0NCkCwx
+ properties :
+  x : 120
+  y : 50
+  width : 490
+  height : 251
+  widthClient : 488
+  heightClient : 219
+  widthMin : 196
+  heightMin : 148
+ controls :
+  -
+    name : LIB_Explications
+    identifier : 0x24a0f7e303ce9ad4
+    internal_properties : CAAAAAgAAADIin1O5wUqBk96NysIEC7Vme7ucNMRmbv/SU9WPDMiDUu7UeerB9T5beFhlgn0zul4LTT4Sb58DEu/kqYNHTrzuy8+MuUTg0SEZhgsWus6UdOi/g3MKu8qKav2Zvv63LOuueisqHN4auyFrDqcsTZtA5LtIZqPxXJfY201ZMKUketO2JoKiJ6W4tifaON2Jlm2+x07MD3kihOaXULOvdStA+sWkAAbnUOvON6SGmQcTryTGZH+JUT3JeR73gSp7sm8di2Y4TkHshme5LOLCTej3FLTZcJuKlqYVsFfncdw74qwZDuWO0nL94rc3Khy2MyyP4mhrFMqFFx+ALnZKAAEdlFelNkVTAmlxwV8cRilzSy5OQw3++F6IH4dz0J86SVGknVTe/sJe+EuYjty4ZSZbcQjyCd8ansCwwOW/HQAJ/vlwWG4beoiJU/ZsWzwNpPi9GtGnRqvneoMm393lTYWHMbAD+e/bs5R8VJVupkH9lkI3roXgjC6uDwC48Ejpuu9HnoEQq6OA0avW0SC1bYXH+FPHR6l4mogGOggl0rPjCV+gCe+rnuhbn8yrHCdmsZzp28ScjTiJsWthg1/ulqSqLLi1rPL0MISWsW6QR8TdawtLoJV/zG3DknhfPjXgck5llAArNP6xLYHt9SCd+nUbsBHh0qh65OD3dwbJ/dcb7Hlz64RPkjiThOTfbMowLnwvDPEwTWCtiFjVt3SAN3SVK4oJVq9sUvNLxf+734fHWLnKw==
+    properties :
+     x : 13
+     y : 12
+     width : 462
+     height : 49
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_DERNIER_LANCEMENT
+    identifier : 0x24a0f7e303cf9ad4
+    internal_properties : CAAAAAgAAADkDWgNtPeD1UF0RjO7LIesFE4uX8qKPaAx0sZNiEo48Fq7l+dV/1niqv9/ShEhyZ1Xan1Xmtu9Pf/BS0quOB9ndISuQNoXEeiapF5bdoV51yqCNyTZU7kQ/XgGT+WKzbo7oAi2Cmqa/0Z9Q0kOryoe8VFfBBPpg25E5jFSok7y4Tu33SOhN3YGSwKiTZ43L7EM4791hAHwtZ5BLeXxnNjxkUZnqngVlsa3FL6ILqsPGUAcrtl0brO2GDF1xTUxjnF/vuCqrOeIt1zmlH3ISgGJAuDjSUhGAa7/4M8AwFXcH7sYAT5O/XTKBXBB1LRWMfacxNu9/5HiGNipPeilfW6rZt1rj4vcrKFHF+DcNquEk9dYLzuFKZfG9MEYhSBD+7AcmFEG1iGeQkPsedb/IeNWXBif+PV2lAEcT0QFzcuBpsQBnEN/ZB+WC0DJ62JbkKWIhERMZHn5MsifndQ1jr/sb7NUxmjznc4KJCMFaiNh7O4tZI0DjC/trQjklTfvOQmp9hFlk38EaCkMy/9BLtDIdFidYDfMQjtBZQT9guM2PVTSY/VKVg6UU7ec2HI1V4eb731/uw==
+    properties :
+     x : 13
+     y : 75
+     width : 462
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_NB_LANCEMENT
+    identifier : 0x24a0f7e303d09ad4
+    internal_properties : CAAAAAgAAAD5IP6M93J0807f2MQ2kNF49371K4Y7+rtZuT25HifnJ0CUrEgD2zwcsE+2oFuLz6xQbadrf10eg3EcnyjQrozZsngRrG6F+wlNyMYVrUEDlmYTnMbBdKJJt0J4Gt6CtwqKjXLlQVUkiRJX0CJSUoKkDIGc74QYifvtDaIfOgQ1ZeUHiyQdr0iYecy/8AmW2tArZJFyeLZcDjGvk9AlVz+Q5183z/+zUWMCdC1GsNTPOU2/uF4I/y6TjHf1fO+2/4qCMhQXSA9mCArriUGOjvw5e0uWeLYewvtLHX/yATKBIWs4OBzZhC09aBXznpN7EuBA8ErfVsz3e8+6jVA27DHL7OsUTQjj5SKcevLkzfb7Bdv8fE3s5PzxS3r0D+1C+uyWoggk7eapjwQDwwqSyLJGClaEoMjBKd6x9rrfOkvJtfdCDgUu/xQC4VAZv1wtseNSqqWG3VnLlrf084yXAZJLMxfom0/Qx5qAofHknpRaZWGfPswclTOogX+FSWkjRIqGqqbjbCcEB7NwYtMdDgDWaEyV/NsCa5w/+nY=
+    properties :
+     x : 13
+     y : 101
+     width : 462
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_FERMER
+    identifier : 0x24a0f7e303d19ad4
+    internal_properties : CAAAAAgAAAAkbHOCawQCiTS3HiNjgC7YSod2mjjyH3RkWn8W6x8ahO35pNx8TjvrVEHFW76N9JokCW2xwrBYsi9Prz3tLKEesEw3BE5l1aJOfNq5XVcfi+93NkIWKZLAQhyVRRoxnHuJvECBml7nHrsJQvz7DZJeld+/U6BLrUkX+LUstsjxeEYHhSoY9wpsqAj7jXdv3xDPssagfyh8ZyccJUadoPypaKvAGtzTd9bSiSh+TCMTYHvLj7exaT7s+AlrX60LRkelho9Iso1c28gMi+VFwfPA9+13NBOZ2A7tymS9dfv9Y+6wbSaR/ASePzT5YBxwi3oVO+MrDov0PVgo+wQggy0syvRRBVEjkMqUNdbgfs2dCVijjKagSUGhYTcIM+GDuzeamc0egBREpkfet6rkBWdqD2J7lAMuCMgjf4rbCr9K+uI60Z6Eun9S+6Rj6WVJ+XI6Ql5Au9l1QHWlTrb0KsKT/ub2KLKKvcup2DwXygF92KR4JWhUsS8dg98lkzuV4YCnRLM7KsYHLhPCK1fSp1mVgYy3q2yXUuHLMsZCtrODVbong67yCTFQptEAcLSK6OPNB7G6OOcjuUDMIedlg+fVGhEdMi4z5Y2J0evEGv7YKRUEyFJRhQLp9yByASXL9U9Tw+CGpSZI17kbWiR9TfQOp7Y8xccAhGPM2/otnbu/5KZoi/SCCdrCW26HbNtp0Wi/bIKoCPZlSd8Z/htben2vaakJRFmqPR8gcXBDHdfO646XWCc+TnF0l7Qj7YCKUzK2NZfnWdrk//KJu5LQf/stfJhyzW9ailqkpbDa5FQRakQbySyDtBCa608n0VtIAqAYOUTnbV2+xdl1CJKJ00Ya/ffQUJMixJzN9enHsI1wxNlKuOxMnzi7HZim301dXb4WYCBNiEZNqcc5mdGXMbzKeKbq/sv3ePNjl/jj
+    properties :
+     x : 395
+     y : 183
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAADQZyvpRjJZltgKBVFD+SKMukTEU1n2G2jmPSjnx1ZKdSF2vB36egNKcReVrz/xwpIZdIpZoyUu0CjPxu+MpGLAedmE/39iAmJIcu72BpKoWkpseLXy2lnJGPSMFw==
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : LIB_VAR2
+    identifier : 0x24a0f7e303d29ad4
+    internal_properties : CAAAAAgAAABC4H53A+LGCG264zgi0EbZJe02ugaZiJi6hqbS/nLLCr1Orn3edWLSDCNKbav7dSf/ZCU34P56Lub9kxt0N9CnUfjQQlQNaqKE9kVFwgA0gEwjpPQjivTIvdF7m3iSYnNoDxw5UlpW6QKegmknX88V1teG0b5x2oIy9N796t1gDAQN+Toj1InJ9XQ0aS3tHs+DRl3hUQaNzZ+kFtpD3LZgjN+3AbBYdcsOkL0HQJAKSo7T4URKL0nV+tDtNkzItEsQUScJGTp95zaGwjeSvSEHlGutf8M1OuOe1rBK1SohsqisuushDzxYYilDSN+87y7bWkdU+r+T+gn68MLE1IsvDWiU5hHrnbEIXYpXqqi9gB9U5KSCfhQIh1NsWvWrHDCw0d06wnXcdAjPFF7XjGWbIQ0I2BzKe2dOLORGhc10Iawpm26KAbBJXjziviw6oAbT6u9a5rObs5olt0/HXoJhe+yuDbP2qG9b2WmGG7WVwQdmbj/PpEXI
+    properties :
+     x : 13
+     y : 187
+     width : 376
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_VAR1
+    identifier : 0x24a0f7e303d39ad4
+    internal_properties : CAAAAAgAAABujFrDrwaCVClmP8Re1FrdOeEqvmr17IxO6hszX03Cd2IjJSQJPLmNRQQ1CZSCAiSEacrET+kJu0k4XKCpYu2oEolZC6eUBbtnsZL+87vlpXFMXaVasQfxbIhY1cKsLoFqpSSRZNDEwQL+AJP58ac/bOUi1bQTFHJ26KBLSJuUev6DdZ7NqicxyVjmE8cPQnWdTJWBDwhHfR/0dBhR+tIOHrm/yfbid8OeED8BSoqi1MSJOezUrdfxxmRT1PUPafi9xqKOgJPIrs/vuTCLPJ6kmXhI9N7qrRKXz7eDfiEqW5GdefwoEG8bDxauJfz/DCv0K8bFAbiS6R7Pw39JG1RYGr1HY5i0rIzVeqW8x59GGbwpp1FRn4fbiMTbKwaGs50bRMTDsxyxXyM6k9do93C05FC3qcUB4F51s1fLgsz3SlNodhPf7KFUcR/Rz7LW6soBmC+6ALmVf3DL708HWo5tZ9CKIa/yrHNf3W26V2lZBcuiEptjyGHk
+    properties :
+     x : 13
+     y : 135
+     width : 376
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_VAR3
+    identifier : 0x24a0f7e303d49ad4
+    internal_properties : CAAAAAgAAACRU4navBezWxr3rmu1vc1UgEhBJdtm/WsnMz8n6/mka46nbx65jI2rN85tRshO/jyErY7gq1VdL6VcfMS1VlE4Ul01FyOwqa9DXXIiz1fpdXFQaXkmZXuNQOxgkXZ4mmGKUfilMKyo9SbiSF/9zfsfBOnmKciXeJ7afBhfRBdIIr4POXLp/rud7UQ212sr1jUN0BEFC8zr2TuYzISVhj7WRk1blcIuI18S5BdVjjZOdBy9raBwKeN18uDbKE/Zn16n4BAAkjmGoNl5N7qNDnTag5reTvCAK4wxqYX9YFOAKWOvL0ZS9l0N0ShEV87hwnnGDQwvk56wS/gZoREbnSpOJAc1VaoKyl7/RPMmefHsnyZLxUPjJcWtesbRPfDAIRv9ZkptHfKfWU2EWdGi8Z5ydhr98/fXzlgf/TX1VL5lML0aJPXx+reuUyHHcQNp2+d+5eZj77pAyqE8WiRc9fXWzr/5shhJBcrmVNQT6PjI9tqxIYx895KX
+    properties :
+     x : 13
+     y : 161
+     width : 376
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : Forme1
+    identifier : 0x24a0f7e303d59ad4
+    internal_properties : CAAAAAgAAABnVjohmjKv3cdAqXnlmggRjWxIdV5BAOubUUqHGn+rKtpTz2Pbbpflyd/TGlTqoJNIVDxVgU+78WT1ZK4UxdNNrD14lOzq5Nx7AD9chpFcFnw4TGvHsZr6SeRQNe4njNZ3SkvkmgyIm7KHG9egbC06ZDE1H8PVCsAO+a8xc9yfEXSgUyDnqVE8ZRsYuIaWY1UmP1chiASoWRAGdRY4eI2jW6C+yFqsHdb24odIpjhPewLaVzLVulipNaFHXuxf8ZM/CSaIytoCnRnLsa/TbjusHQWXCSIDphVOc5SC4c2y7TTnPqFn1GeggGjP6bLnBWilsW+lG+4mcyIwEooSQmNxlyuLD7xnSPLyHsg6APzozejNMHxF1RlYVAon5H9v5k9hvClo0u768GXN
+    properties :
+     x : 13
+     y : 127
+     width : 462
+     height : 2
+    type : 20
+    code_elements :
+     type_code : 32
+     p_codes : []
+  -
+    name : Forme2
+    identifier : 0x24a0f7e303d69ad4
+    internal_properties : CAAAAAgAAAB+SP/UwlL7R+3mK90+1bramNNlN4f/onh8WqvuNA1Gnx20iPxLKNz+EgcjOnpRTkVy+9gOxEciZ/0BJzGv+tg27VwCkQNzpUGZOi6DX1mQoUlmKIREj18WPnjt/8RYXX3hIb9tIe/mg6mjVXx/WoxXCJHkeylEBA6rKrPSJ98Z+PWMBtWAHuY6BloW0lpZCPtSN+T0nXvTxdgA3O0H/LM3FAvniKzt4YxI1ViA29SbC8cilzlC7TgO2bg1k2lhF8J+19XZjMErUiI92HKwm62u7YfzVdHPLvAc32Z9RUbg2FEV3Nz+uhrCxIeFhTxoiLSheA7iLJmCw/m8s5l7z2HsnYlB57hS+QYiRVBVBbIfTBk/RMxqHRgsU7hGU/sNSSFJomxnhQ4=
+    properties :
+     x : 13
+     y : 67
+     width : 462
+     height : 2
+    type : 20
+    code_elements :
+     type_code : 32
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x24a0f7e303d79ad4
+  internal_properties : CAAAAAgAAAAJxS0G5c1IRXGYGZdqFN326K3OkB4BBOm8SghVhlQHBcl5xljUepVhD3TFxInPCLsZJ8xssjOE44xdu8YpG2sAiOTJ0UnS+SWNgqmSNI1TJguWjR4mkDFpyVJlSbXUC6M1lSIlo8xJsa28G4Cxmprs+NZ7jXXUqDa63PNzDVAMsdgmOXkrvHWvtY+Bi0BxSd465xEbsxdVaZSQEpI1jNTs4GdiIxFfO1m/RoMk6R6Iaflhc5JPxmagMxq94R4lo8nIwKjDbtNlRFVInZJE3wz0ftRoFSvsybMdq1RwkA==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABJcUGQt1QIRQEotAYgYUWwYnw6Buf2HhoYRvNJATssxROL5zDy+ycQAkXEDQ6sdVuUQWAmKuwq/ar7m8ESRTOA8Uav1zO0GtSBvPeWAaaV2W09CDrP6BnwKFX3qdn8
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAACvhiIr8gSQ5loUp83uTso9CuLc4dExenO6nYq0wt6wNhhy8DIKk+8xrI7GMink5ce8SLehbaZBjJVyvy60Arg=
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      gnNbLancement est un entier
+      gdDateDernierLancement est une date
+      ghHeureDernierLancement est une heure
+      
+      // Récupération des variables globales
+      ChargeParamètres()
+   -
+     internal_properties : CAAAAAgAAABHMQaNqboIsvuAO474g2A5X0Ek8LiRQ+fTvg+kBFFHJ2UITmxrdOkhrK8/MJSiZU5DvtLcwHjAEmi3/uOyPjzeNz/CEW9yDl7+mEii6DAWpLWXhrkcCRydqhprcpF3xS6vQ50PjEOCJiiKu+A=
+     code : |1+
+      // Mise à jour des libellés contenant les variables
+      LIB_NB_LANCEMENT = Chaineconstruit(LIB_NB_LANCEMENT, gnNbLancement)
+      LIB_VAR1 = chaineconstruit(<§$0000§>, gnNbLancement)
+      LIB_VAR2 = chaineconstruit(<§$0001§>, gdDateDernierLancement)
+      LIB_VAR3 = chaineconstruit(<§$0002§>, ghHeureDernierLancement)
+      
+      // Si la fenêtre a déjà été lancée, on met à jour le libellé
+      si gnNbLancement >= 1 alors
+      	LIB_DERNIER_LANCEMENT = chaineconstruit(LIB_DERNIER_LANCEMENT, dateverschaine(gdDateDernierLancement, <§$0003§>), heureverschaine(ghHeureDernierLancement, <§$0004§>))
+      sinon
+      	LIB_DERNIER_LANCEMENT = <§$0005§>
+      fin
+      
+      
+      // Incrémentation du nombre de lancement et sauvegarde de la date et de l'heure de dernier lancement
+      gnnblancement++
+      gdDateDernierLancement = datesys()
+      ghHeureDernierLancement = heuresys()
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      
+      // Sauvegarde des variables globales
+      SauveParamètres()
+     type : 2
+   -
+     code : |1-
+      
+     type : 11
+   -
+     code : |1-
+      
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+  procedures :
+   -
+     name : ChargeParamètres
+     procedure_id : 1486460431362792148
+     type_code : 14
+     code : |1+
+      // Syntaxe :
+      //ChargeParamètres ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure ChargeParamètres()
+      
+      gnNbLancement = chargeparamètre(CS_NB_LANCEMENT)
+      gdDateDernierLancement = chargeparamètre(CS_DATE_LANCEMENT)
+      ghHeureDernierLancement = chargeparamètre(CS_HEURE_LANCEMENT)
+     type : 458752
+   -
+     name : SauveParamètres
+     procedure_id : 1486460431362857684
+     type_code : 14
+     code : |1+
+      // Syntaxe :
+      //SauveParamètres ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      Procédure SauveParamètres()
+      
+      // Sauvegarde des paramètres globaux
+      SauveParamètre(CS_NB_LANCEMENT, gnNbLancement)
+      SauveParamètre(CS_DATE_LANCEMENT, gdDateDernierLancement)
+      SauveParamètre(CS_HEURE_LANCEMENT, ghHeureDernierLancement)
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FenGestionManuelle
+resources :
+ string_res :
+  identifier : 0x121b2c0900088746
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      fr-FR : "gnNbLancement : %1"
+     index : 0
+   -
+     text :
+      fr-FR : "gdDateDernierLancement : %1"
+     index : 1
+   -
+     text :
+      fr-FR : "ghHeureDernierLancement : %1"
+     index : 2
+   -
+     text :
+      fr-FR : JJ/MM/AAAA
+     index : 3
+   -
+     text :
+      fr-FR : "HH:MM:SS"
+     index : 4
+   -
+     text :
+      fr-FR : C'est le premier lancement de cette fenêtre
+     index : 5
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

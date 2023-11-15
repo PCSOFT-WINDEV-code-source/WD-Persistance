@@ -1,0 +1,62 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : pGlobales
+ major_version : 28
+ minor_version : 0
+ type : 7
+ description : ""
+ subtype : 0
+procedure_set :
+ identifier : 0x193e58410394c9e3
+ internal_properties : CAAAAAgAAABGLu41kG7fjQV3iS4F72qmnKaNh5694reolNKIW0iw
+ code_elements :
+  internal_properties : CAAAAAgAAAD8bMDG0Cs1g4/i70md6veujAOEhPR2GhG/1BWJE8Yit1EF5JBhblm4Op5thxqktjYHTICRJuQDzpfcY6rtLxJgdPWuX+e3KupDq/3lw15Wc8RO/VuI+B19OUtk1h6V19J3EZXQZMI3awfLfliKSOjowqthDi8SP7Y9khMkG4UO0eAMBhtC73b5vkTsk5hSAne6z2OHC/pTCxjg06jpBWfk61iXHKuinhYGd+D7
+  type_code : 31
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAABLAqEjZOPG6GO+lv6pEaKiJ+xl/w+8xvg7P4PZdvJ0WmDnlNaTsCf/LnXofO2ukEEM/XwTSUf5ST8aYfSe44Hw4XxdEVKemsI7MUxAiXE/wkepa91FYKZrfb1ZSq+Jc7EhgkTyclKKg1yPm/Wxmvf7zUMgpCx2P3WblZjnEIb8
+     code : |1-
+      CONSTANT
+      	
+      	CS_FICHIER_XML = <§@00000000000000000000§> // Nom du fichier XML de sauvegarde
+      	CS_REGISTRE = <§@00000000000000000001§> // Chemin de la clé de registre de la sauvegarde
+      	CS_FICHIER_INI = <§@00000000000000000002§> // Nom du fichier ini de sauvegarde
+      	
+      	CS_NB_LANCEMENT = <§@00000000000000000003§> // Nom du paramètre correspondant au nombre de lancement
+      	CS_DATE_LANCEMENT = <§@00000000000000000004§> // Nom du paramètre correspondant à la date de lancement
+      	CS_HEURE_LANCEMENT = <§@00000000000000000005§>	 // Nom du paramètre correspondant à l'heure de lancement
+      	
+      	
+      	// ----------------------------------------------------------------------------
+      	// Les constantes suivantes ne concernent que le paramétrage de l'exemple
+      	// ----------------------------------------------------------------------------
+      	
+      	CS_CONFIG_EXEMPLE = "config.ini" // Fichier de configuration de l'exemple
+      	
+      	CS_TYPE_SAUVEGARDE = <§@00000000000000000007§>	 // Titre du paramètre du type de sauvegarde
+      	CS_CHEMIN_SAUVEGARDE = <§@00000000000000000008§>	 // Titre du paramètre du chemin de sauvegarde
+      	
+      FIN
+      
+      gnTypeSauvegarde est un entier // Type de sauvegarde
+      gsCheminSauvegarde est une chaine // Chemin de sauvegarde
+      gbSuppression est un booléen = vrai	
+     type : 720896
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+resources :
+ string_res :
+  identifier : 0x121af0a600018c6f
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      fr-FR : "*.xml"
+     index : 0
+   -
+     text :
+      fr-FR : "*.ini"
+     index : 1
+custom_note :
+ internal_properties : CAAAAAgAAABtB9HWVzrXO2+4NDRVK0vmzaNKrCKqH1DBX30lMmGZ
